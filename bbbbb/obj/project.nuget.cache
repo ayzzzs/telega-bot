@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZCnHb86jRaQ=",
+  "success": true,
+  "projectFilePath": "E:\\repos\\bbbbb\\bbbbb\\bbbbb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\9.0.10\\microsoft.aspnetcore.jsonpatch.9.0.10.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.303\\microsoft.net.sdk.compilers.toolset.9.0.303.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.18\\microsoft.windowsdesktop.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.18\\microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.18\\microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "C:\\Users\\ilaob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.18\\microsoft.netcore.app.host.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
